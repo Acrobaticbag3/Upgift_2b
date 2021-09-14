@@ -1,0 +1,9 @@
+th,td{
+    width: 200px;
+    height: 200px;
+}
+.ptOne{background-color: cornflowerblue;}
+.ptTwo{background-color: red;}
+.ptThree{background-color: yellow;}
+.ptFour{background-color: black;}
+.ptFive{background-color: greenyellow;}
